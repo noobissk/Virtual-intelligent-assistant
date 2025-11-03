@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Virtual-intelligent-assistant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ee24cc5f43ab576191d7ed967a34bdd5f60232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f683ef48a2bfa47eb3da807f37a62da173ac8e96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Virtual-intelligent-assistant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Virtual-intelligent-assistant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

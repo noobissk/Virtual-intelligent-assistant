@@ -95,3 +95,12 @@
 /home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/obj/Debug/net9.0/Virtual-intelligent-assistant.pdb
 /home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/obj/Debug/net9.0/Virtual-intelligent-assistant.genruntimeconfig.cache
 /home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/obj/Debug/net9.0/ref/Virtual-intelligent-assistant.dll
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/obj/Debug/net9.0/Virtual-intelligent-assistant.csproj.AssemblyReference.cache
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/bin/Debug/net9.0/Microsoft.Extensions.AI.Abstractions.dll
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/bin/Debug/net9.0/OllamaSharp.dll
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/obj/Debug/net9.0/Virtual-.20877986.Up2Date
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/miguel/Documents/Projects/School/Virtual-intelligent-assistant/obj/Debug/net9.0/Virtual-intelligent-assistant.MvcApplicationPartsAssemblyInfo.cs
